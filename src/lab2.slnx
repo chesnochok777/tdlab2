@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Part1_Interfaces/Part1_Interfaces.csproj" />
+  <Project Path="Part2_Repository/Part2_Repository.csproj" />
+  <Project Path="Part3_Api/Part3_Api.csproj" />
+</Solution>
